@@ -13,7 +13,8 @@ DividendPal is an Android app that helps users calculate dividend yield and pass
 
 ## 🖼 Screenshots
 ![image](https://github.com/user-attachments/assets/0c9f796e-672a-48d2-b533-d2e531dfa6d8)
-![image](https://github.com/user-attachments/assets/07abef25-1262-40f0-b2b4-8b39e783b4a6)
+![image](https://github.com/user-attachments/assets/84b715e1-0264-4ff3-83a1-934395dbde2e)
+
 
 ## 🚀 How to Install
 1. Download the APK file from the release or Google Drive.
