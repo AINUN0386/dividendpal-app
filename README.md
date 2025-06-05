@@ -1,0 +1,1 @@
+# dividendpal-app
